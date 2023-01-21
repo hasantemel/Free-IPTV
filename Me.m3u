@@ -1,0 +1,147 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png"group-title="Ulusal",TRT 1 HD
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png"group-title="Ulusal",TRT 1 HD
+http://stream.suboroiptv.tv/TRT1/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png"group-title="Ulusal",TRT 2 HD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png"group-title="Ulusal",TRT 2 FHD
+http://stream.suboroiptv.tv/TRT2/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png"group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c8ede3b2-ed24-499c-9b6f-0c32317b2bde.png"group-title="Belgesel",TGRT Belgesel
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png"group-title="Ulusal",atv HD
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="StarTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png"group-title="Ulusal",Star TV HD
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="StarTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png"group-title="Ulusal",Star TV SD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="STAR TV SD"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png"group-title="Ulusal",Star TV SD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png"group-title="Ulusal",Kanal D HD
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="KANAL D SD"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png"group-title="Ulusal",KANAL D SD
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png"group-title="Ulusal",Show TV HD
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="ShowTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png"group-title="Ulusal",Show TV HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png"group-title="Ulusal",Kanal 7 HD
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Kanal7.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png"group-title="Ulusal",Kanal 7 FHD
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png"group-title="Ulusal",Kanal 7 Avrupa FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png"group-title="Ulusal",Beyaz TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="TV8.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png"group-title="Ulusal",TV8 HD
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TGRTEU.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7dd52379-38e8-48c3-8c66-6e7aa38306e5.png"group-title="Ulusal",TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a4e7693b-02be-405c-a534-9d90053fd681.png"group-title="Haber",TGRT Haber HD
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="NTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png"group-title="Ulusal",NTV HD
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:-1 tvg-id="24TV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/16d5ab17-3a95-4491-aceb-c8aae4ebc5d9.png"group-title="Ulusal",24 TV FHD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.us"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b164ae9e-ca58-457d-9a35-c10df0c82ff7.png"group-title="Ulusal",Bloomberg HT HD
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png"group-title="Ulusal",teve2 SD
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="DMAXTurkiye.us"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/30951752-87e2-401c-8c6b-1d2aaaecdd05.png"group-title="Ulusal",DMAX
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-id="DMAXTurkiye.us"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/30951752-87e2-401c-8c6b-1d2aaaecdd05.png"group-title="Ulusal",DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TLCTurkiye.us"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png"group-title="Ulusal",TLC
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/24b9dea9-b8e6-4d95-a7d8-75a37cee2cb8.png"group-title="Ulusal",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="Yaban.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cb404d1-3d4a-454e-9064-cc51b747b4df.png"group-title="Belgesel",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Yaban.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cb404d1-3d4a-454e-9064-cc51b747b4df.png"group-title="Belgesel",Yaban TV
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png"group-title="Çocuk",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png"group-title="Çocuk",TRT Çocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="MinikaCocuk.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/347a440b-4f6f-45a8-97b6-ecea89581f66.png"group-title="Çocuk",Minika Çocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="MinikaGo.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/00af72b2-479c-4c8c-b060-0115ac028bc6.png"group-title="Çocuk",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="DiyanetTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png"group-title="Dini",Diyanet TV FHD
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e977fc50-197c-48c8-ae71-d7e12195eb5e.png"group-title="Dini",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranTV.sa"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png"group-title="Dini",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="AkilliTV.tr"tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png"group-title="Eğlence",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png"group-title="Özel",Beyaz Medya Sinema
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png"group-title="Özel",Beyaz Medya Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",YOUR TIME IRAN
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",HODHOD TV IRAN
+http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",IRAN INT
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",I FILM IRAN
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",AVA Series
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",PRIMA MOVIES
+http://51.210.199.40/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",FX PERSIAN
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",IRAN CINEMA
+http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",DRAMA TV
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",SL 1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",SL 2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",4TURK MUSiC HD
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Game-Tech
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",BOX 247 TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",NEGAH TV IRAN
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",SALAAM TV IRAN
+https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Tv Iranian",VOX 1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
+
